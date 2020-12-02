@@ -1,6 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 import { AppService } from './app.service';
-import { fromCommon } from '@nest-yarn-workspaces/common/src';
+import { fromCommon } from '@nest-yarn-workspaces/common';
 
 @Controller()
 export class AppController {
