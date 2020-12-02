@@ -1,0 +1,6 @@
+{
+    "name": "@nest-yarn-workspaces/common",
+    "version": "1.0.0",
+    "license": "MIT",
+    "private": true
+}
